@@ -7,3 +7,4 @@ Initial implementation of a Backend RESTful API to manage, search, and like/disl
 Potential Improvements:
 - Constraints on the Movie class fields with validation
 - Additional searching options (e.g. get by highest to lowest rating)
+- Individual users with associated accounts, with no anonymous liking/disliking (can keep track of who has liked what)
